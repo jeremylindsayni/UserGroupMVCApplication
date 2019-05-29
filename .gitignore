@@ -1,0 +1,13 @@
+/WebApplication1/packages
+/WebApplication1/WebApplication1/WebApplication1.csproj.user
+/WebApplication1/WebApplication1/bin
+/WebApplication1/WebApplication1/obj
+/.vs
+/WebApplication1/.vs
+/WebApplication1/UnitTestProject1/bin
+/WebApplication1/UnitTestProject1/obj
+/WebApplication1/AzureResourceGroup1/Deployment.targets
+/WebApplication1/AzureResourceGroup1/bin
+/WebApplication1/AzureResourceGroup1/obj
+/WebApplication1/AzureResourceGroup1/AzureResourceGroup1.deployproj
+/WebApplication1/AzureResourceGroup1/Deploy-AzureResourceGroup.ps1
